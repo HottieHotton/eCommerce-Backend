@@ -19,6 +19,7 @@
   ---------------
   Watch this video of how to run the program after opening it!
   
+  [Video](https://vimeo.com/695120687)
 
   ## Contribution
   --------------------------
